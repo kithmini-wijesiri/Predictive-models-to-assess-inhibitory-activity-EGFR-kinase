@@ -5,11 +5,17 @@ The ultimate objective is to screen a small commercial library and select 100 pr
 Please ensure all dependencies below are installed.
 
 datamol
+
 molfeat
+
 splito
+
 scikit-learn
+
 pytorch
+
 pyG
+
 You can install those dependencies by
 
 conda env create -f env.yml
