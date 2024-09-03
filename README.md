@@ -1,2 +1,2 @@
-# ML4DD
-ML for Drug Discovery Summer School
+# GNNs to identify novel inhibitors of the human EGFR kinase protein
+In this project, we explore virtual screening using ML and Graph Neural Networks (GNNs) to identify novel inhibitors of the EGFR protein. We will develop predictive models using molecular fingerprints and graph-based representations, leveraging PyTorch, PyTorch Geometric, and Scikit-learn. Our goal is to screen a hinge binder library and select 100 diverse molecules for experimental testing, enhancing the drug discovery process through advanced ML techniques.
